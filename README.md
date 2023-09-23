@@ -3,13 +3,19 @@
 
 # 参数配置
 **支付宝商家ID**
+```
 const shareId ='xxx';
+```
 
 **红包码Token**
+```
 const toKen ='xxx';
+```
 
 **红包码搜索码**
+```
 const hongbaoNum ='xxx';
+```
 
 **配置方法：**
 ```
